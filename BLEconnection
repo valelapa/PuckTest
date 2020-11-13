@@ -1,8 +1,0 @@
-<html>
- <head>
-  <title>Banglerun data straming</title>
- </head>
- <body>
-<script src="https://www.puck-js.com/puck.js"></script>
-<button id="btnConnect">Connect</button>
-<script>
